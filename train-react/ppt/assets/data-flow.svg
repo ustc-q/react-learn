@@ -1,0 +1,207 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="491px" height="381px"
+     version="1.1" style="background-color: rgb(255, 255, 255);">
+  <defs/>
+  <g transform="translate(0.5,0.5)">
+    <path d="M 60 240 L 60 313.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 60 318.88 L 56.5 311.88 L 60 313.63 L 63.5 311.88 Z" fill="#000000" stroke="#000000"
+          stroke-miterlimit="10" pointer-events="none"/>
+    <g transform="translate(43.5,274.5)">
+      <foreignObject style="overflow:visible;" pointer-events="all" width="32" height="11">
+        <div xmlns="http://www.w3.org/1999/xhtml"
+             style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml"
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">render
+          </div>
+        </div>
+      </foreignObject>
+    </g>
+    <rect x="0" y="180" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+    <g transform="translate(46.5,196.5)">
+      <foreignObject style="overflow:visible;" pointer-events="all" width="26" height="26">
+        <div xmlns="http://www.w3.org/1999/xhtml"
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 28px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml"
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            <div>state
+              <br/>
+            </div>
+            数据
+          </div>
+        </div>
+      </foreignObject>
+    </g>
+    <rect x="0" y="320" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+    <g transform="translate(47.5,336.5)">
+      <foreignObject style="overflow:visible;" pointer-events="all" width="24" height="26">
+        <div xmlns="http://www.w3.org/1999/xhtml"
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 24px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml"
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">jsx
+            <div>dom</div>
+          </div>
+        </div>
+      </foreignObject>
+    </g>
+    <g transform="translate(45.5,3.5)">
+      <foreignObject style="overflow:visible;" pointer-events="all" width="29" height="12">
+        <div xmlns="http://www.w3.org/1999/xhtml"
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; overflow: hidden; max-height: 16px; max-width: 36px; width: 29px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml"
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Initial
+          </div>
+        </div>
+      </foreignObject>
+    </g>
+    <rect x="180" y="180" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+    <g transform="translate(226.5,196.5)">
+      <foreignObject style="overflow:visible;" pointer-events="all" width="26" height="26">
+        <div xmlns="http://www.w3.org/1999/xhtml"
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 28px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml"
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            <div>state
+              <br/>
+            </div>
+            数据
+          </div>
+        </div>
+      </foreignObject>
+    </g>
+    <rect x="180" y="320" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+    <g transform="translate(227.5,336.5)">
+      <foreignObject style="overflow:visible;" pointer-events="all" width="24" height="26">
+        <div xmlns="http://www.w3.org/1999/xhtml"
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 24px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml"
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">jsx
+            <div>dom</div>
+          </div>
+        </div>
+      </foreignObject>
+    </g>
+    <path d="M 239 240 L 239 313.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 239 318.88 L 235.5 311.88 L 239 313.63 L 242.5 311.88 Z" fill="#000000" stroke="#000000"
+          stroke-miterlimit="10" pointer-events="none"/>
+    <g transform="translate(222.5,274.5)">
+      <foreignObject style="overflow:visible;" pointer-events="all" width="32" height="11">
+        <div xmlns="http://www.w3.org/1999/xhtml"
+             style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml"
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">render
+          </div>
+        </div>
+      </foreignObject>
+    </g>
+    <g transform="translate(223.5,3.5)">
+      <foreignObject style="overflow:visible;" pointer-events="all" width="33" height="12">
+        <div xmlns="http://www.w3.org/1999/xhtml"
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; overflow: hidden; max-height: 16px; max-width: 36px; width: 35px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml"
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">mount
+          </div>
+        </div>
+      </foreignObject>
+    </g>
+    <path d="M 240 110 L 240 173.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 240 178.88 L 236.5 171.88 L 240 173.63 L 243.5 171.88 Z" fill="#000000" stroke="#000000"
+          stroke-miterlimit="10" pointer-events="none"/>
+    <g transform="translate(219.5,139.5)">
+      <foreignObject style="overflow:visible;" pointer-events="all" width="40" height="11">
+        <div xmlns="http://www.w3.org/1999/xhtml"
+             style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml"
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            setState
+          </div>
+        </div>
+      </foreignObject>
+    </g>
+    <rect x="180" y="50" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+    <g transform="translate(209.5,66.5)">
+      <foreignObject style="overflow:visible;" pointer-events="all" width="60" height="26">
+        <div xmlns="http://www.w3.org/1999/xhtml"
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 61px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml"
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">fetch
+            <div>请求服务端</div>
+          </div>
+        </div>
+      </foreignObject>
+    </g>
+    <rect x="370" y="180" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+    <g transform="translate(416.5,196.5)">
+      <foreignObject style="overflow:visible;" pointer-events="all" width="26" height="26">
+        <div xmlns="http://www.w3.org/1999/xhtml"
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 28px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml"
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            <div>state
+              <br/>
+            </div>
+            数据
+          </div>
+        </div>
+      </foreignObject>
+    </g>
+    <rect x="370" y="320" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+    <g transform="translate(417.5,336.5)">
+      <foreignObject style="overflow:visible;" pointer-events="all" width="24" height="26">
+        <div xmlns="http://www.w3.org/1999/xhtml"
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 24px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml"
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">jsx
+            <div>dom</div>
+          </div>
+        </div>
+      </foreignObject>
+    </g>
+    <path d="M 429 240 L 429 313.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 429 318.88 L 425.5 311.88 L 429 313.63 L 432.5 311.88 Z" fill="#000000" stroke="#000000"
+          stroke-miterlimit="10" pointer-events="none"/>
+    <g transform="translate(412.5,274.5)">
+      <foreignObject style="overflow:visible;" pointer-events="all" width="32" height="11">
+        <div xmlns="http://www.w3.org/1999/xhtml"
+             style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml"
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">render
+          </div>
+        </div>
+      </foreignObject>
+    </g>
+    <g transform="translate(415.5,3.5)">
+      <foreignObject style="overflow:visible;" pointer-events="all" width="29" height="12">
+        <div xmlns="http://www.w3.org/1999/xhtml"
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; overflow: hidden; max-height: 16px; max-width: 36px; width: 31px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml"
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">event
+          </div>
+        </div>
+      </foreignObject>
+    </g>
+    <path d="M 430 110 L 430 173.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M 430 178.88 L 426.5 171.88 L 430 173.63 L 433.5 171.88 Z" fill="#000000" stroke="#000000"
+          stroke-miterlimit="10" pointer-events="none"/>
+    <g transform="translate(409.5,139.5)">
+      <foreignObject style="overflow:visible;" pointer-events="all" width="40" height="11">
+        <div xmlns="http://www.w3.org/1999/xhtml"
+             style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml"
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            setState
+          </div>
+        </div>
+      </foreignObject>
+    </g>
+    <rect x="370" y="50" width="120" height="60" rx="9" ry="9" fill="#ffffff" stroke="#000000" pointer-events="none"/>
+    <g transform="translate(393.5,66.5)">
+      <foreignObject style="overflow:visible;" pointer-events="all" width="72" height="26">
+        <div xmlns="http://www.w3.org/1999/xhtml"
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 73px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml"
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;"><div>handler</div>处理用户输入
+          </div>
+        </div>
+      </foreignObject>
+    </g>
+  </g>
+</svg>

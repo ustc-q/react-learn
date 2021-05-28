@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1440" height="900">
+  <!--  52/322 = 32/198 -->
+  <!-- <image xlink:href="./header-left.png" x="20" y="10" height="32" width="198"/> -->
+  <!--  44/242 = 32/176 -->
+  <!-- <image xlink:href="./header-right.png" x="1084" y="10" height="32" width="176"/> -->
+  <rect x="720" y="60" width="720" height="12" fill="#f63"/>
+  <rect x="0" y="60" width="720" height="12" fill="#13D1BE"/>
+</svg>

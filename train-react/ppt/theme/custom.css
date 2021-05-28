@@ -1,0 +1,47 @@
+/**
+ * @since 2019-05-20 02:40
+ * @author vivaxy
+ */
+ h1, h2, h3, h4, h5, h6, p {
+  font-family: 'Microsoft YaHei', Helvetica !important;
+}
+
+body {
+  background-color: #fff;
+}
+
+@media print {
+  .backgrounds {
+    background-color: #fff;
+  }
+}
+
+.slides .stack section:before {
+  content: url('header-left.png');
+  position: absolute;
+  display: block;
+  transform: scale(.5);
+  transform-origin: 0 50%;
+  top: 4px;
+  left: 20px;
+}
+
+.slides .stack section:after {
+  content: url('header-right.png');
+  position: absolute;
+  display: block;
+  transform: scale(.5);
+  transform-origin: 100% 50%;
+  top: 8px;
+  right: 20px;
+}
+
+.slides .stack section {
+  background-image: url('background.svg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.speaker-notes {
+  padding-bottom: 100px !important;
+}
