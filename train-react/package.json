@@ -1,0 +1,38 @@
+{
+  "name": "train-react",
+  "version": "1.4.0",
+  "dependencies": {
+    "@vivaxy/reveal": "^2.1.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.17.0"
+  },
+  "scripts": {
+    "1": "reveal server --markdown ./ppt/react-1.md --highlight-theme github-gist --script theme/custom.js",
+    "2": "reveal server --markdown ./ppt/react-2.md --highlight-theme github-gist --script theme/custom.js",
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "dev-1": "npm run 1 -- --watch",
+    "dev-2": "npm run 2 -- --watch",
+    "preinstall": "node -e \"if (process.env.npm_execpath.indexOf('yarn') === -1) { console.log('\u001b[31mPlease use yarn for installing\u001b[0m'); process.exit(1); }\""
+  },
+  "resolutions": {
+    "babel-jest": "24.7.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
