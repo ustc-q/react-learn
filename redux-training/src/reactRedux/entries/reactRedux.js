@@ -14,6 +14,12 @@ const store = createStore(reducer, compose(
     window.devToolsExtension ? window.devToolsExtension() : (f) => f,
 ));
 
+const storage = JSON.parse(localStorage.getItem('todos')) || { todos: [{
+    id: 1, text: 'code',
+}] };
+console.log('reactRedux storage', storage);
+
+
 render(
     <AppContainer>
         <Provider store={store}>

@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 import { render } from 'react-dom';
 import { AppContainer } from 'react-hot-loader';
 import { createStore, applyMiddleware, compose } from 'redux';
-import thunk from 'redux-thunk';
-// import { thunk } from '../lib/common';
 import { createLogger } from 'redux-logger';
 import { Provider } from 'react-redux';
+// import thunk from 'redux-thunk';
+import { thunk } from '../lib/common';
 import reducer from '../reducers/index';
 import Sample from '../containers/sample/sample';
 

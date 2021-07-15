@@ -14,7 +14,8 @@ const store = createStore(reducer, compose(
     applyMiddleware(logger),
     window.devToolsExtension ? window.devToolsExtension() : (f) => f,
 ));
-
+console.log('store', store);
+console.log('state', store.getState());
 // const store = createStore(reducer);
 
 const update = () => {
